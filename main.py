@@ -157,7 +157,7 @@ window.fill(white)
 def game_loop():
     run = True
     one_shape = True
-    move_x = grid_pos_x + play_width / 2 - block_size
+    move_x = grid_pos_x + play_width // 2 - block_size
     move_y = grid_pos_y
     velocity = block_size
     block_coord_right = [0]   # coordinates of the block, x right side
