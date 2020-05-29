@@ -1,2 +1,2 @@
 # Game-Tetris
-Tetris game unfinished
+Tetris game with pygame, unfinished
